@@ -1,4 +1,4 @@
-# simple-collision-detection
+# Simple Collision Detection
 ### Project of Data Structure course
 In this project, we want to implement a 2D collision detection algorithm step by step. In the 2D collision detection problem, some n-gons are given (which are not necessarily convex) and ask you the number of all collide pairs. Note that when 2 n-gons are tangent to each other this doesn't mean collision. Two n-gons have collision if their common area is greater than zero. This problem has many applications in computer games, physical simulations, and robotics. Many persons who are creating computer games use these kinds of algorithms directly or indirectly.
 this project has 3 steps:
